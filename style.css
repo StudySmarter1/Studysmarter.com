@@ -265,4 +265,17 @@ footer {
         margin-top: 1rem;
     }
 }
-.
+. 
+/* Logo Styles */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Space between icon and text */
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.logo-icon {
+  font-size: 2rem; /* Adjust icon size */
+  color: #4CAF50; /* Green color for the icon */
+}
